@@ -1,16 +1,40 @@
-## Hi there 👋
+## 👋 Hi there, I'm Diane Dacayo
 
-<!--
-**d-dcy/d-dcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Senior Software Engineer | Java | Spring Boot | Microservices | Cloud | Fullstack Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- 💼 13 years experience in backend and fullstack development
+- 🔧 Core skills in Java, Spring Boot, REST APIs, React.js, .NET
+- ☁️ Experienced with AWS, Docker, Kubernetes
+- 👥 Team leader, mentor, and Agile practitioner
+- 🌍 Open to remote/hybrid roles and global collaboration
+
+---
+
+### 🛠 Tech Stack
+
+**Languages & Frameworks:**  
+`Java`, `Spring Boot`, `Spring`, `JavaScript`, `React.js`, Angular.js, `.NET`, `C#.NET`, `VB.NET`, `ASP.NET`  `HTML`, `CSS`
+
+**Databases:**  
+`Oracle`, `PostgreSQL`, `MySQL`,`MS SQL Server`,`MongoDB`, `AWS DynamoDB`, `Redis`
+
+**DevOps & Tools:**  
+`Docker`, `Kubernetes`, `AWS`, `Jenkins`, `Liquibase`, `Git`, `Swagger UI`, `SwaggerHub`, `OpenAPI`, `Postman`
+
+---
+
+### 📫 Connect with Me
+
+- 🔗 [LinkedIn](www.linkedin.com/in/diane-kristel-dacayo)
+- 📧 [dkpdacayo@gmail.com](mailto:dkpdacayo@gmail.com)
+
+---
+
+### 🔍 Currently Looking For
+
+A challenging backend or fullstack developer role in a collaborative, remote-friendly engineering team where I can contribute my expertise and continue to grow!
+
