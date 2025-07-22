@@ -7,7 +7,7 @@
 ### 👩‍💻 About Me
 
 - 💼 13 years experience in backend and fullstack development
-- 🔧 Core skills in Java, Spring Boot, REST APIs, React.js, .NET
+- 🔧 Core skills in Java, Spring Boot, Spring, REST APIs, React.js, Angular.js, .NET
 - ☁️ Experienced with AWS, Docker, Kubernetes
 - 👥 Team leader, mentor, and Agile practitioner
 - 🌍 Open to remote/hybrid roles and global collaboration
